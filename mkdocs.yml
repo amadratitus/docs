@@ -1,10 +1,13 @@
+site_name: MKdocs Documentations
+
 nav:
   - Home: index.md
   - User Guide:
-    - Writing your docs: writing-your-docs.md
-    - Styling your docs: styling-your-docs.md
+      - Writing your docs: writing-your-docs.md
+      - Styling your docs: styling-your-docs.md
   - About:
-    - License: license.md
-    - Release Notes: release-notes.md
+      - License: license.md
+      - Release Notes: release-notes.md
+
 theme:
   name: readthedocs
